@@ -1,4 +1,4 @@
-# Adobe-
+# Adobe
 Adobe产品官方下载地址
 trials3需要在官网登录一次Adobe ID
 ccmdl需要设置浏览器User-agent为Adobe Application Manager 2.0
